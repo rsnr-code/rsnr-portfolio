@@ -1,0 +1,15 @@
+
+/* Header */
+.logo {
+    width: 4em;
+}
+
+.icons {
+    font-size: 2em;
+    margin-right: 1em;
+    color: white;
+}
+
+.icons:hover {
+    color: grey;
+}
